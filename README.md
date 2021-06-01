@@ -38,4 +38,6 @@ Then, it decides whether
     * If so, assign the _peak_, _closingTime_ and _recoveryTime_ for the closing drawdown
 
 
-At the end it plots all the _drawdownValues_ using matplotlib and lists out all drawdowns
+At the end it plots all the _drawdownValues_ using matplotlib and lists out all drawdowns.
+
+Note : The class _CSVfile_ is a simple wrapper to read the relevant column from a given csv file
